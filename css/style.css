@@ -1,0 +1,15 @@
+.quote-box h1 {
+  font-size: 80px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  color: #000;
+}
+.quote-box p {
+  font-size: 30px;
+  font-weight: 400;
+}
+.quote-box p:first-of-type {
+  font-size: 35px;
+}
+.quote-box button:hover {
+  background-color: rgb(129, 0, 0);
+}
